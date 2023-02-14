@@ -1,0 +1,24 @@
+.container {
+  width: 25%;
+  background-color: #b0c4de;
+}
+
+.head_line {
+  font-size: 16px;
+}
+
+.box_height {
+  height: 70px;
+  border-radius: 5px;
+  border-width: thin;
+}
+
+.butto {
+  height: 50px;
+  border-radius: 5px;
+
+  /* &:hover
+     background-color: #ADD8E6 */
+}
+
+/* .butto:hover */

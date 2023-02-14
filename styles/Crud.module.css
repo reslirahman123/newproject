@@ -1,0 +1,45 @@
+.container {
+  background-color: #7fffd4;
+  height: 569px;
+}
+.cardLogin {
+  background-color: aliceblue;
+  width: 350px;
+  height: 350px;
+  margin-top: 100px;
+}
+.cardBoxe {
+  padding: 50px;
+}
+.cardInp {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  height: 50px;
+  padding: 20px;
+}
+.cardbtn {
+  width: 50%;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.cardbtn :hover {
+  background-color: #257229;
+}
+
+.cardBtntwo {
+    width: 15%;
+  background-color: aliceblue;
+  color:  #257229;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
